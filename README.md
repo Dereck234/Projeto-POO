@@ -1,9 +1,10 @@
-// File: README.md
 # Sistema de Gestão de Pedidos em um Restaurante
 
-## Changelog
-- **Tema escolhido**: Tema 04 - Sistema para Gestão de pedidos em um Restaurante.
-- **29/05/2025**: Implementação inicial do arquivo Main como base do programa.
+## Changelog (29/05/2025)
+- **Alteração**: exclusão do "File: README.md" que servia apenas de referencia.
+- **Alteração**: mudança do titulo "Changelog" para "Changelog (29/05/2025)".
+- **Implementação**: adicionado o arquivo "GerenciadorDeClientes.java".
+- **Implementação**: adicionado o arquivo "GerenciadorDePratos.java".
 
 ## Regras de Nomenclatura
 - **Classes**: PascalCase (ex: `Dish`, `OrderStatus`)
