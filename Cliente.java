@@ -11,12 +11,12 @@ public class Cliente {
         return nome;
     }
 
-    public String getTelefone() {
-        return telefone;
-    }
-
     public void setNome(String nome) {
         this.nome = nome;
+    }
+
+    public String getTelefone() {
+        return telefone;
     }
 
     public void setTelefone(String telefone) {
@@ -25,9 +25,6 @@ public class Cliente {
 
     @Override
     public String toString() {
-        return "Cliente{" +
-                "nome='" + nome + '\'' +
-                ", telefone='" + telefone + '\'' +
-                '}';
+        return nome + " - Tel: " + telefone;
     }
 }
