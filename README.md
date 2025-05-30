@@ -5,6 +5,7 @@
 - **Alteração**: mudança do titulo "Changelog" para "Changelog (29/05/2025)".
 - **Implementação**: adicionado o arquivo "GerenciadorDeClientes.java".
 - **Implementação**: adicionado o arquivo "GerenciadorDePratos.java".
+- **Alteração**: arquivo errado deletado.
 
 ## Regras de Nomenclatura
 - **Classes**: PascalCase (ex: `Dish`, `OrderStatus`)
